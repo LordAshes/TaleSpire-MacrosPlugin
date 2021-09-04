@@ -17,7 +17,9 @@ Any edition of Visual Studio should work including the free Community edition. Y
 plugin to build and/or use the created macros:
 
 Hollo's Radial UI plugin installed.
+
 Lord Ashes' Stat Messaging plugin installed.
+
 Lord Ashes' File Access plugin installed.
 
 ## Install
