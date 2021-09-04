@@ -1,9 +1,10 @@
 # Macros Plugin (aka LASS with a LAMB)
 
-This unofficial TaleSpire plugin allows users to create macros which can be launched using a side out menu.
-Includes a Lord Ashes Macros Builder (LAMB) which will convert the user macros scripts into the Macros plugin.
-The user can then access the macros using a slide out menu. The slide out menu can be made content sensitive
-so its contents can change based on conditions provided in the macros.
+This unofficial TaleSpire plugin allows users the Lord Ashes Scripting System (LASS) to create macros which
+can be launched using a side out menu. Includes a Lord Ashes Macros Builder (LAMB) which will convert the
+user macros scripts into the Macros plugin. The user can then access the macros using a slide out menu.
+The slide out menu can be made content sensitive so its contents can change based on conditions provided
+in the macros (such as selected mini, player, etc).
 
 ## Change Log
 
@@ -105,7 +106,8 @@ the text there should be a message that says:
 
 ```Build succeeded.
     0 Warning(s)
-    0 Error(s)```
+    0 Error(s)
+ ```
 	
 If that is the case the MacrosPlugin is built, copied to your plugin directory, and read for use in TaleSpire.
 If the results show some errors then you need to correct the macro code before the MacrosPlugin will be built.
