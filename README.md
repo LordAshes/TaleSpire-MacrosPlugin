@@ -1,4 +1,4 @@
-# Macros Plugin
+# Macros Plugin (aka LASS with a LAMB)
 
 This unofficial TaleSpire plugin allows users to create macros which can be launched using a side out menu.
 Includes a Lord Ashes Macros Builder (LAMB) which will convert the user macros scripts into the Macros plugin.
